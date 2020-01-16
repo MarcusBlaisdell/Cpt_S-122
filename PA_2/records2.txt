@@ -1,0 +1,80 @@
+Artist: ard
+Album: Til the Casket Drops
+Song: 365 Days
+Genre: Blues
+Length: 3m 35s
+Play count: 3
+Rating: 4
+
+Artist: 
+Album: 3
+Song: 54
+Genre: 112
+Length: 5m 38s
+Play count: 3
+Rating: 5
+
+Artist: kelback
+Album: Oingo Boingo
+Song: Best of Boingo
+Genre: Dead Mans Party
+Length: 3m 38s
+Play count: 3
+Rating: 5
+
+Artist: kelback
+Album: No Fixed Address
+Song: What Are You Waiting For
+Genre: Rock
+Length: 3m 38s
+Play count: 3
+Rating: 5
+
+Artist: 
+Album: 3
+Song: 48
+Genre: 16
+Length: 5m 37s
+Play count: 3
+Rating: 5
+
+Artist: t Kearney
+Album: Matchbox Twenty
+Song: Exile On Mainstream
+Genre: Unwell
+Length: 3m 37s
+Play count: 3
+Rating: 5
+
+Artist: t Kearney
+Album: City of Black & White
+Song: Closer to Love
+Genre: Rock
+Length: 3m 37s
+Play count: 3
+Rating: 5
+
+Artist: 
+Album: 3
+Song: 25
+Genre: 6
+Length: 5m 15s
+Play count: 7
+Rating: 5
+
+Artist: Lindsey Stirling
+Album: Linkin Park
+Song: Minutes to Midnight
+Genre: What I've Done
+Length: 3m 15s
+Play count: 7
+Rating: 5
+
+Artist: Lindsey Stirling
+Album: Lindsey Stirling
+Song: Electric Daisy Violin
+Genre: Electronic
+Length: 3m 15s
+Play count: 7
+Rating: 5
+
